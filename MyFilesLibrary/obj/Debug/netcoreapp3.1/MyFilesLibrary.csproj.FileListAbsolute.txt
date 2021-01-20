@@ -1,0 +1,9 @@
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\bin\Debug\netcoreapp3.1\MyFilesLibrary.deps.json
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\bin\Debug\netcoreapp3.1\MyFilesLibrary.dll
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\bin\Debug\netcoreapp3.1\MyFilesLibrary.pdb
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\obj\Debug\netcoreapp3.1\MyFilesLibrary.csprojAssemblyReference.cache
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\obj\Debug\netcoreapp3.1\MyFilesLibrary.AssemblyInfoInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\obj\Debug\netcoreapp3.1\MyFilesLibrary.AssemblyInfo.cs
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\obj\Debug\netcoreapp3.1\MyFilesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\obj\Debug\netcoreapp3.1\MyFilesLibrary.dll
+C:\Users\tulin\RiderProjects\task2_files\MyFilesLibrary\obj\Debug\netcoreapp3.1\MyFilesLibrary.pdb

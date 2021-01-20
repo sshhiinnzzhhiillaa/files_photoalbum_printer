@@ -1,0 +1,9 @@
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\bin\Debug\netcoreapp3.1\MyPrintLibrary.deps.json
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\bin\Debug\netcoreapp3.1\MyPrintLibrary.dll
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\bin\Debug\netcoreapp3.1\MyPrintLibrary.pdb
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\obj\Debug\netcoreapp3.1\MyPrintLibrary.csprojAssemblyReference.cache
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\obj\Debug\netcoreapp3.1\MyPrintLibrary.AssemblyInfoInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\obj\Debug\netcoreapp3.1\MyPrintLibrary.AssemblyInfo.cs
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\obj\Debug\netcoreapp3.1\MyPrintLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\obj\Debug\netcoreapp3.1\MyPrintLibrary.dll
+C:\Users\tulin\RiderProjects\task2_files\MyPrintLibrary\obj\Debug\netcoreapp3.1\MyPrintLibrary.pdb

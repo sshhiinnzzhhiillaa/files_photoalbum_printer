@@ -1,0 +1,16 @@
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\MyFilesLibrary.dll
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\bin\Debug\netcoreapp3.1\MyFilesLibrary.pdb
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CopyComplete
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\tulin\RiderProjects\task2_files\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

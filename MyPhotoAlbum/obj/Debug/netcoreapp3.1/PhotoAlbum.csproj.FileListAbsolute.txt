@@ -1,0 +1,9 @@
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.deps.json
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.dll
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.pdb
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.AssemblyInfoInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.AssemblyInfo.cs
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.dll
+C:\Users\tulin\RiderProjects\task2_files\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.pdb

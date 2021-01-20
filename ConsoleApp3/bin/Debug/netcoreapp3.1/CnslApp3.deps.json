@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CnslApp3/1.0.0": {
+        "dependencies": {
+          "MyPhotoAlbum": "1.0.0"
+        },
+        "runtime": {
+          "CnslApp3.dll": {}
+        }
+      },
+      "MyPhotoAlbum/1.0.0": {
+        "runtime": {
+          "MyPhotoAlbum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CnslApp3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyPhotoAlbum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
